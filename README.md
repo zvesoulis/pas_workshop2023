@@ -2,13 +2,14 @@
 Materials for the 2023 PAS Big Data Workshop
 
 This repository contains all of the files needed for the 2023 Pediatric Academic Socities Annual Meeting Workshop
-"Big Data and the Smallest People: Leveraging Informatics and Machine Learning to Improve Your Clinical and Research Practice"
-Held Friday, April 28 2023 15:45-17:15 Eastern Time, Location TBD
+"Big Data and the Smallest People: Leveraging Informatics and Machine Learning to Improve Your Clinical and Research Practice" <br>
 
-Materials can be divided into the following categories:
--Articles for background reading
--Instructions for pre-session software installation
--Session handbook
--Slides
--Sample data
--Sample code
+This event will be held Friday, April 28 2023 15:45-17:15 Eastern Time, Location TBD <br>
+
+Materials can be divided into the following categories:  
+-Articles for background reading  
+-Instructions for pre-session software installation  
+-Session handbook  
+-Slides  
+-Sample data  
+-Sample code  

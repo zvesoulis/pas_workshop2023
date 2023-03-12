@@ -13,7 +13,7 @@ GNU Octave is a scientific programming lanaguage that is largely compatible with
 - For Windows users, scroll to the bottom of the page and download the Windows 64-bit installer labelled [octave-8.1.0-w64-installer.exe](https://ftpmirror.gnu.org/octave/windows/octave-8.1.0-w64-installer.exe).
 - For Apple users, a pre-built binary can be downloaded from the [Octave App Project](https://octave-app.org/Download.html).
 - An alternative strategy for Apple users is to install using Homebrew, which requires two commands in Terminal
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)```
+  - ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)```
 
 
 - Import a HTML file and watch it magically convert to Markdown

@@ -1,22 +1,19 @@
 # Workshop software installation guide
 ## _Hopefully this is painless_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+<img src="https://octave.org/img/octave-logo.svg"  width="50%" height="50%">
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-We are very excited for you to join our workshop.  Although part of the workshop will be didactic with brief lectures from the presenters, most of the workshop will be live demonstration of data analysis techniques.  In order for things to run smoothly, all attendees should bring a fully charged laptop computer with the software described in this guide already installed and tested.  If you have any questions, please reach out via email if you have questions
+We are very excited for you to join our workshop!  Although part of the workshop will be didactic with brief lectures from the presenters, most of the workshop will be live demonstration of data analysis techniques.  In order for things to run smoothly, all attendees should bring a fully charged laptop computer with the software described in this guide already installed and tested.  If you have any questions, please reach out via email if you have questions
 
 **There will not be sufficient time for attendees to install new software during the session itself.  Please prepare in advance!!**
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+## Introduction
+In the interactive part of the workshop, we will utilize anonymized real patient data to go through a number of important processes including: importing data, understanding variables, producing visualizations, and an introduction to analysis.  We will utilize two software packages, R and GNU Octave.  Both packages are available for Microsoft Window and Apple OS platforms, are open source, and are free of charge.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+## GNU Octave installation
+GNU Octave is a scientific programming lanaguage 
 
-## Features
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)

@@ -1,10 +1,7 @@
 # Workshop software installation guide
 ## _Hopefully this is painless_
 
-<img src="https://octave.org/img/octave-logo.svg"  width=100 height=100>
-
-
-We are very excited for you to join our workshop!  Although part of the workshop will be didactic with brief lectures from the presenters, most of the workshop will be live demonstration of data analysis techniques.  In order for things to run smoothly, all attendees should bring a fully charged laptop computer with the software described in this guide already installed and tested.  If you have any questions, please reach out via email if you have questions
+We are very excited for you to join our workshop!  Although part of the workshop will be didactic with brief lectures from the presenters, most of the workshop will be live demonstration of data analysis techniques.  In order for things to run smoothly, all attendees should bring a fully charged laptop computer with the software described in this guide already installed and tested.  If you have any questions, please reach out via email.
 
 **There will not be sufficient time for attendees to install new software during the session itself.  Please prepare in advance!!**
 
@@ -12,7 +9,8 @@ We are very excited for you to join our workshop!  Although part of the workshop
 In the interactive part of the workshop, we will utilize anonymized real patient data to go through a number of important processes including: importing data, understanding variables, producing visualizations, and an introduction to analysis.  We will utilize two software packages, R and GNU Octave.  Both packages are available for Microsoft Window and Apple OS platforms, are open source, and are free of charge.
 
 ## GNU Octave installation
-GNU Octave is a scientific programming lanaguage 
+<img src="https://octave.org/img/octave-logo.svg"  width=100 height=100>
+GNU Octave is a scientific programming lanaguage that is largely compatible with the commerical MATLAB platform, yet is available for free.  It is capable of loading large datasets, generating visualizations, and running analytic code.  GNU Octave can be obtained from: [GNU Octave website]([Node.js](https://nodejs.org/)).  For Windows users, scroll to the bottom and download the Windows 64-bit installer labelled **octave-8.1.0-w64-installer.exe.**
 
 
 - Import a HTML file and watch it magically convert to Markdown

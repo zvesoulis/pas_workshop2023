@@ -10,7 +10,7 @@ In the interactive part of the workshop, we will utilize anonymized real patient
 
 ## GNU Octave installation
 <img src="https://octave.org/img/octave-logo.svg"  width=100 height=100>
-GNU Octave is a scientific programming lanaguage that is largely compatible with the commerical MATLAB platform, yet is available for free.  It is capable of loading large datasets, generating visualizations, and running analytic code.  GNU Octave can be obtained from: [GNU Octave website](https://nodejs.org/).  For Windows users, scroll to the bottom and download the Windows 64-bit installer labelled **octave-8.1.0-w64-installer.exe.**
+GNU Octave is a scientific programming lanaguage that is largely compatible with the commerical MATLAB platform, yet is available for free.  It is capable of loading large datasets, generating visualizations, and running analytic code.  GNU Octave can be obtained from: [GNU Octave website](https://nodejs.org) .  For Windows users, scroll to the bottom and download the Windows 64-bit installer labelled **octave-8.1.0-w64-installer.exe.**
 
 
 - Import a HTML file and watch it magically convert to Markdown

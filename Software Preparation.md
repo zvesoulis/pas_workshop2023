@@ -23,5 +23,14 @@ GNU Octave does not have a pre-built binary available for download from the main
   - ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)```
   - ```brew install octave```
 
+### First launch
+The first time GNU Octave is started, it will open a "Welcome" dialog box.  It is sufficient to accept the default options and click through until finished.  Octave is now installed!
+
 ## R and R studio installation
-R is a statistical software package with extensive data analysis
+R is a statistical software package with extensive data analysis and visutalization capabilities.  R is highly extensible and additional features can be added by the installation of "packages."  There is more than one way to run R; we suggest you utilize R Studio, which provides a graphical user interface which simplifies some aspects of program operation.  This process involves the installation of R (the underlying code engine) as well as a second installation of R studio.  R is available as a completely free, open-source software.  R Studio is available as a free open-source package, although a paid version with additional features is available.
+
+### R installation
+R can be downloaded from the main [CRAN Repository](https://cran.rstudio.com/) by selecting the correct link for your operating system.  Once the installation file is downloaded, please install and select all of the default options.
+
+### R Studio installation
+R Studio should be installed second, and can be downloaded from the main [website](https://posit.co/download/rstudio-desktop/) by selecting the correct link for your operating system.  Once the installation file is downloaded, please install and select all of the default options.  Once installation is complete, please launch R Studio.  In the bottom right corner, select the "Packages" tab and press "Install."  In the empty text box, type "ggplot2" and press install.  The box should close and you should see the installation progress at the command line.

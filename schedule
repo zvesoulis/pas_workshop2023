@@ -1,3 +1,5 @@
+markdown.markdown(lines, extensions=['tables'])
+
 ## Amost always imports
 
 |  R |  Python |    Matlab |

@@ -1,5 +1,6 @@
 # Workshop software installation guide
-## _Hopefully this is painless_
+
+*Hopefully this is painless*
 
 We are very excited for you to join our workshop!  Although part of the workshop will be didactic with brief lectures from the presenters, most of the workshop will be live demonstration of data analysis techniques.  In order for things to run smoothly, all attendees should bring a fully charged laptop computer with the software described in this guide already installed and tested.  If you have any questions, please reach out via email.
 

@@ -4,7 +4,7 @@ This repository contains all of the files needed for the 2023 Pediatric Academic
 
 *Please check back regularly, as materials will continue to be updated leading up to the workshop.*
 
-This event will be held **Friday, April 28 2023 15:45-17:15 Eastern Time, Location TBD**  
+This event will be held **Friday, April 28 2023 15:45-17:15 Eastern Time, Convention Center 101**  
 
 Materials can be divided into the following categories:  
 - Articles for background reading  

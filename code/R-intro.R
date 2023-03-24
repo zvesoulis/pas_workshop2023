@@ -9,6 +9,7 @@
 # or from the Tools -> Install Packages... menu selection
 
 library(ggplot2)
+library(gridExtra)
 
 # This script assumes input data from the UVA dataverse library,
 # specifically the one available from Niestroy et al. Replication Data for: Discovery of
